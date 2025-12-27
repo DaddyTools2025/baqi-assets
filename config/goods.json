@@ -1,1 +1,20 @@
-
+[
+  {
+    "id": 1,
+    "title": "大王天使纸尿裤 L码 2包",
+    "desc": "折合 ¥89/包，历史低价！手慢无",
+    "price": "¥178",
+    "image": "https://img14.360buyimg.com/n1/s450x450_jfs/t1/123456/product_image.jpg",
+    "appId": "wx91d27dbf599dff74",
+    "path": "pages/union/proxy/proxy?spreadUrl=..."
+  },
+  {
+    "id": 2,
+    "title": "全棉时代棉柔巾 6包",
+    "desc": "干湿两用，擦脸擦屁股都不心疼",
+    "price": "¥59.9",
+    "image": "https://img14.360buyimg.com/n1/s450x450_jfs/t1/654321/product_image.jpg",
+    "appId": "wx91d27dbf599dff74",
+    "path": "pages/union/proxy/proxy?spreadUrl=..."
+  }
+]
