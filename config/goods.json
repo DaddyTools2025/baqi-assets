@@ -1,9 +1,27 @@
-{
-  "title": "国际奶粉口碑节",
-  "tag": "京东",
-  "price": "",
-  "type": "jump",
-  "appId": "wx91d27dbf599dff74",
-  "url": "https://u.jd.com/ADyH2of", 
-  "tips": "只需填这一行原始url，代码会自动拼接到 pages/h5/index 后面"
-}
+[
+  {
+    "title": "🔥国际奶粉口碑节",
+    "tag": "母婴",
+    "price": "", 
+    "type": "jump",
+    "appId": "wx91d27dbf599dff74",
+    "url": "https://u.jd.com/ADyH2of",
+    "tips": "活动页不填价格，页面上此处留白，只显示‘抢 >’按钮"
+  },
+  {
+    "title": "🔥【海底捞】100元代金券限时抢购",
+    "tag": "必囤",
+    "price": "¥88.8",
+    "type": "jump",
+    "appId": "wxde8ac0a21135c07d",
+    "url": "http://dpurl.cn/IKQqxsrz"
+  },
+  {
+    "title": "🔥【晋家门·家常菜】200元代金券",
+    "tag": "6.4折",
+    "price": "¥126.9",
+    "type": "jump",
+    "appId": "wxde8ac0a21135c07d",
+    "url": "http://dpurl.cn/o00rH4Nz"
+  }
+]
