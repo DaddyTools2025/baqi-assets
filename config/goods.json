@@ -1,1 +1,9 @@
-[]
+{
+  "title": "国际奶粉口碑节",
+  "tag": "京东",
+  "price": "",
+  "type": "jump",
+  "appId": "wx91d27dbf599dff74",
+  "url": "https://u.jd.com/ADyH2of", 
+  "tips": "只需填这一行原始url，代码会自动拼接到 pages/h5/index 后面"
+}
