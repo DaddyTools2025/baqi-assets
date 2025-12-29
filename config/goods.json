@@ -2,9 +2,9 @@
   {
     "title": "🔥最高20元，可叠加",
     "tag": "淘宝闪购",
-    "price": "", 
+    "price": "抢红包",
     "type": "copy",
-    "copyContent": "09 HU7405  666:/💲2vmBfzkkMSp₤欢最高20元，可叠加",
+    "url": "09 HU7405  666:/💲2vmBfzkkMSp₤欢最高20元，可叠加",
     "tips": "口令已复制，请打开【淘宝】查看",
     "appId": ""
   },
@@ -14,7 +14,8 @@
     "price": "¥88.8",
     "type": "jump",
     "appId": "wxde8ac0a21135c07d",
-    "url": "https://dpurl.cn/IKQqxsrz"
+    "url": "https://dpurl.cn/IKQqxsrz",
+    "tips": ""
   },
   {
     "title": "【必胜客】2人披萨意面8件套",
@@ -22,6 +23,7 @@
     "price": "¥62",
     "type": "jump",
     "appId": "wxde8ac0a21135c07d",
-    "url": "https://dpurl.cn/E5h1Qk2z"
+    "url": "https://dpurl.cn/E5h1Qk2z",
+    "tips": ""
   }
 ]
